@@ -1,1 +1,1 @@
-# Safety-Gear-Detection-System
+# AI- Brain-Tumor-Detection
